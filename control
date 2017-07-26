@@ -1,0 +1,9 @@
+Package: com.neinzedd9.snapchatrecents
+Name: SnapchatRecents
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Adds a 🕒 emoji next to Friends left on "Received".
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
